@@ -1,0 +1,131 @@
+*{
+    box-sizing: border-box;
+}
+.header{
+    display: flex;
+    gap: 20px;
+    margin-top: 28px;
+    
+}
+.id{
+    width: 201px;
+    height: 45px;
+    
+}
+.title{
+    width: 593px;
+    height: 45px;
+}
+.time{
+    width: 201px;
+    height: 45px;
+}
+.action{
+    width: 115px;
+    height: 45px;
+    
+}
+.input{
+    width: 100%;
+    border-radius: 10px;
+border: 1px solid #E0E0E0;
+background: #FFF;
+padding: 13px 11px 17px 11px;
+}
+input::placeholder{
+    color: #EBEBEB;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+label{
+   
+color: #000;
+font-family: Inter;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 8px;
+}
+input[type=submit]{
+    border-radius: 10px;
+background: #FFD43A;
+color: #000;
+font-family: Inter;
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+border: none;
+padding: 14px 40px 11px 21px;
+}
+
+
+/* tables */
+table{
+    margin-top: 5px;
+}
+h2{
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30.26px;
+    margin-top: 100px;
+    text-align: justify;
+    
+}
+.id1{
+    width: 72px;
+    height: 57px;
+    text-align: center;
+    font-weight: bolder;
+}
+.title1{
+    width:444px;
+    height: 57px;
+    text-align: left;
+    font-weight: bolder;
+
+}
+.time1{
+    width: 276px;
+    height: 57px;
+    font-weight: bolder;
+}
+.action1{
+    width: 251px;
+    height: 57px;
+    font-weight: bolder;
+}
+.time1{
+    color: red;
+    font-weight: bolder;
+    text-align: center;
+}
+.edit1{
+    text-align: center;
+    font-weight: bolder;
+    
+}
+button{
+    width: 115px;
+    height: 36px;
+    background-color: #FFD43A;
+    border: 1px solid #FFD43A;
+}
+.edit2{
+    text-align: center;
+    font-weight: bolder;
+    
+
+}
+.edit2 button{
+    width: 115px;
+    height: 36px;
+    background-color: red;
+    border: 1px solid red;
+
+}
+
