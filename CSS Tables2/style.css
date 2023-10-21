@@ -105,6 +105,8 @@ h5{
     font-weight: bolder;
     border: 1px solid #DADADA;
     border-collapse: collapse;
+    padding-left: 20px;
+    
 
 }
 .time1{
@@ -176,6 +178,7 @@ button{
     font-weight: bolder;
     border: 1px solid #DADADA;
     border-collapse: collapse;
+    padding-left: 20px;
 
 }
 .time2{
