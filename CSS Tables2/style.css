@@ -52,6 +52,7 @@ table {
 }
 
 h6 {
+    font-family: "fonti";
     color: #000;
     font-size: 25px;
     font-style: normal;
@@ -74,6 +75,7 @@ p {
 
 table{
     border-collapse: collapse;
+    font-family: "fonti";
     
     
 }
@@ -90,6 +92,7 @@ table{
     
 }
 h5{
+    font-family: "fonti";
     font-size: 25px;
     font-weight: 700;
 
